@@ -1,15 +1,15 @@
-Track build process for a v4 prototype hangprinter
+#Track build process for a v4 prototype hangprinter
 
-Sourcing
-
-
-3D Printing
+##Sourcing
 
 
-Assembly
+##3D Printing
 
 
-Wiring
+##Assembly
+
+
+##Wiring
 
 
 
